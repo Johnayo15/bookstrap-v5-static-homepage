@@ -1,0 +1,15 @@
+@use "custom";
+@use "components/animations";
+@use "components/button";
+@use "components/mixin";
+@use "components/typography";
+@use "sections/navbar";
+@use "sections/introsection";
+@use "sections/companies";
+@use "sections/services";
+@use "sections/testimonials";
+@use "sections/faq";
+@use "sections/portfolio";
+@use "sections/getstarted";
+@use "sections/footer";
+/*# sourceMappingURL=style.css.map */
